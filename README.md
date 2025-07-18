@@ -32,3 +32,11 @@ Provides responsive design elements and modern UI components for better accessib
 2.About us
 
 ![AboutUs](StudentManagmentSystem/Images/2.png)
+
+3.Services
+
+![Services](StudentManagmentSystem/Images/3.png)
+
+4.Contact Us
+
+![ContactUs](StudentManagmentSystem/Images/4.png)
